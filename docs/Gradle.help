@@ -1,0 +1,9 @@
+##Note If you don't have gradle installed in your local use 'gradlew' instead of 'gradle'
+
+
+Build jar : gradle build 
+build Jar and run application : gradle build && java -jar build/libs/maps-0.0.1.jar
+access the following url to test the application
+http://localhost:9090/test-api
+http://localhost:9090   ##Note server port is configured in application.properties.
+
