@@ -1,0 +1,4 @@
+intstall node js
+
+update nmp version
+npm install npm -g

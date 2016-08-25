@@ -3,4 +3,9 @@
 
 Clone project : git clone https://github.com/ronyjoy/connectworld.git
 show dir status : git status
+add and remove all the files : git add -A
+add certain types of files : git add '*.txt'
+commit : git commit -m "test"
+
+
 
