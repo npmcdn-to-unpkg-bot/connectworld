@@ -1,4 +1,4 @@
 intstall node js
 
-update nmp version
-npm install npm -g
+update nmp version - npm install npm -g
+install lite server - npm install lite-server --save-dev
